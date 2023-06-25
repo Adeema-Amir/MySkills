@@ -1,0 +1,149 @@
+  Course Outline
+Django Full Stack Development
+	google colab
+	Jupiter lab
+	spider lab
+	orange lab
+	item lab
+	pycharm
+	vs code
+	anaconda navigator
+
+
+Languages
+	html
+	css
+	JavaScript
+	typescript
+	express
+	node
+	next
+	react
+	angular
+	python
+	chakra
+	json
+	sass
+	java
+	solidity
+	Drizzle
+	Shadcn
+	Docker 
+	three js
+	vue
+	c++
+	gamma ai
+	plasmic
+	figma
+Hosting Platforms
+	GitHub
+	vercel
+	heroku
+	python any where
+	netlify
+	firebase
+	google cloud platform
+Database Management System
+	postgresql
+	MySQL
+	pgadmin 4
+	sanity
+	content full
+	mongo dB
+	dynamic routing
+	scalable Api
+	neon
+	pandas
+	keras
+	numpy
+	scikit learn
+	tenser flow
+
+
+App Development	
+	expo
+	react native
+	kotlin
+	xml
+	swift
+	C#
+	object c
+	android studio
+	intellij idea
+
+Game Development
+	core
+	unity
+
+Software’s
+	GitHub
+	GitHub desktop
+	gui
+	gi
+	git cmd
+	vlc
+	playit
+	git bash
+	cmd
+	PowerShell
+	sublime text editor
+	snip and sketch
+	adobe reader
+	WhatsApp
+	zoom
+	discord
+	kmplayer
+	IDM
+	safe from net
+	zapya
+	WinRAR
+	word
+	excel
+	PowerPoint
+	outlook
+	access
+	publisher
+	one note
+
+Browser
+	google
+	Microsoft edge
+	Microsoft store
+	opera browser
+	safe exam browser
+	fire fox
+	Mozilla
+
+Graphic Designing	
+	adobe
+	adobe Photoshop
+	adobe illustrator
+	adobe xd
+	adobe InDesign
+	adobe light room
+	adobe premiere pro
+	adobe character animator
+	inscapes
+	obs studio
+	vidmore video editor
+	photo tool kit
+	easy video to audio converter
+	hand brake
+	adobe creative cloud
+	blender
+	adobe after effect
+	adobe audition
+	adobe animate
+	adobe aero
+	adobe express
+	adobe in copy
+	adobe Dreamweaver
+	adobe Photoshop express
+	canvas
+
+Api	
+	server less Api
+	rest Api
+	graphql Api
+
+The END 👻
